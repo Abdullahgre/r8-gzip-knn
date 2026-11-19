@@ -1,0 +1,9 @@
+data/R8/
+results/cache/
+__pycache__/
+.venv/
+writeup/*.aux
+writeup/*.log
+writeup/*.bbl
+writeup/*.blg
+writeup/*.out

@@ -1,0 +1,3 @@
+setting,ours,published
+"gzip kNN k=2, paper's scoring",0.9511192325262677,0.954
+"gzip kNN k=2, fair tie-break",0.9159433531292828,0.915

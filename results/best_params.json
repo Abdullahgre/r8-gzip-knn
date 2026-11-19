@@ -1,0 +1,7 @@
+{
+  "k": 5,
+  "tau": 0.6,
+  "C_lr": 100,
+  "C_svm": 10,
+  "k_weighted_only": 3
+}

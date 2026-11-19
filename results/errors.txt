@@ -1,0 +1,113 @@
+111 errors
+
+true=earn pred=crude: citibank norway unit loses six mln crowns in citibank a s cci n the norwegian subsidiary of the u s based bank said it made a net loss of just over six mln crowns in although foreign bankers said they
+true=earn pred=acq: jardine matheson said it sets two for five bonus issue replacing b shares
+true=acq pred=earn: nippon steel denies china seeking japanese plants nippon steel corp nstc t denied local newspaper reports that china has been seeking to buy steel plants from japanese firms which plan to suspend outp
+true=earn pred=acq: entourage entg has first quarter loss entourage international inc said it had a first quarter loss of dlrs after incurring dlrs in costs for an internal audit a report for shareholders and proxy solic
+true=interest pred=money-fx: fed sets overnight system repurchases fed says
+true=earn pred=money-fx: heineken sees higher profits wider penetration dutch brewer heineken nv said it hoped to maintain for a number of years a similar earnings growth to the pct increase in net profit achieved in despite 
+true=crude pred=ship: iraqi troops reported pushing back iranians iraq said today its troops were pushing iranian forces out of positions they had initially occupied when they launched a new offensive near the southern por
+true=earn pred=crude: strata stata earnings report qualified strata corp said its earnings report contained a qualified opinion from its independent auditors strata said it owed mln dlrs in overdue interest to its lender a
+true=interest pred=money-fx: wojnilower sees drop in u s interest rates the federal reserve will promote lower interest rates this year to sustain world economic growth first boston corp managing director albert wojnilower said a
+true=earn pred=acq: southeast bancorp stb acts on brazilian debt following the lead of other major banks southeast banking corp told the securities and exchange commission it would place mln dlrs of medium and long term 
+true=acq pred=earn: hbo hboc urges shareholders against andover hbo and co said it sent a letter of strongly urging shareholders not to sign any proxy cards sent by andover group on march andover group a two man general 
+true=trade pred=money-fx: deficit cuts seen unable to cure trade deficit financial analysts say they are pleased with congressional moves to trim next year s federal budget deficit but believe the actions will do little to hel
+true=acq pred=earn: more american brands amb acquisitions seen american brands inc s mln dlrs acquisition of national distillers and chemical corp s liquor business is expected to be one of a series of acquisitions by th
+true=acq pred=crude: csr says it is retaining non delhi gas oil stakes csr ltd csra s said its sale of delhi petroleum pty ltd will not affect the other oil and gas interests it manages or operates csr sold delhi which ho
+true=interest pred=money-fx: german bankers remarks revive talk of rate cut remarks by two leading central bankers sparked renewed speculation in financial markets that a cut in the west german three pct discount rate may be unde
+true=earn pred=acq: ccf reports pct profit boost share split seen credit commercial de france ccfp pa reported a parent company net profit up pct to mln francs from mln francs a few weeks before its denationalisation aro
+true=acq pred=earn: step saver coda says warrant exercised step saver data systems inc said bergen richards corp has exercised a warrant to buy step saver shares at two dlrs each it said warrants issued to the underwrite
+true=ship pred=acq: todd shipyards tod struck on west coast todd shipyards corp said production workers represented by the multi union pacific coast metal trades district council at its san francisco division struck on a
+true=money-fx pred=acq: lebanese pound falls sharply against dollar the lebanese pound fell sharply against the u s dollar again today with dealers attributing the decline to continued political uncertainty the pound closed 
+true=interest pred=money-fx: bank of france leaves intervention rate unchanged the bank of france said it left its intervention rate unchanged at pct when it injected funds in the market against first category paper in today s mo
+true=earn pred=acq: reichhold chemical rci sets anti takeover plan reichhold chemical inc said its board adopted a warrant dividend plan in which one preferred stock purchase right will be distributed as a dividend on ea
+true=grain pred=earn: argentine grain belt weather report argentine grain belt temperatures centigrade and rain mm in the hours to gmt were max temp min temp rainfall buenos aires bahia blanca tres arroyos tandil junin san
+true=interest pred=money-fx: lawson says some countries could cut rates nigel lawson britain s chancellor of the exchequer said some countries may need to cut interest rates with the aim of maintaining exchange rate stability spe
+true=money-fx pred=acq: lawson sees no change in u k monetary policy british chancellor of the exchequer nigel lawson said he saw no immediate implications for british monetary policy arising from the group of seven meeting 
+true=trade pred=crude: canada trade rise seen as start of recovery canada s trade picture has brightened considerably underscoring economists predictions the sector would post a long awaited recovery this year the federal g
+true=grain pred=trade: coarse grain supply demand by country usda the u s agriculture department detailed world supply demand data for major importers and exporters of coarse grains by country as follows in mln tonnes ussr 
+true=crude pred=acq: la land llx du pont dd get exploration tracts louisiana land and exploration co said it du pont co s conoco inc subsidiary and oranje nassau energie b v have been offered four exploration blocks offsh
+true=interest pred=money-fx: japan has no plans to cut discount rate bank of japan sources said the bank has no plans to cut its discount rate they told reporters that there was no pressure on japan during the group of seven g me
+true=earn pred=acq: texaco sees business little hit by bankruptcy move texaco inc tx said its decision to file for protection under chapter of the u s bankruptcy code will not affect the majority of its businesses it sai
+true=trade pred=earn: malaysia s manufacturing exports rise pct malaysia s manufacturing exports rose by pct to billion ringgit in chairman of the export promotion council ahmad sarji abdul hamind said the improved export 
+true=acq pred=earn: dillard department stores agrees to buy two allied stores units for mln dlrs cash
+true=money-fx pred=interest: fed expected to set three day repurchase pacts the federal reserve is expected to enter the u s government securities market to add temporary reserves directly by arranging three day system repurchase
+true=acq pred=crude: nova nva a to not planning dome dmp bid nova an alberta corp chief executive robert blair expressed hope that dome petroleum ltd dmp remains under canadian ownership but added that his company plans n
+true=earn pred=acq: wall street stocks browning ferris bfi the environmental protection agency s five to mln dlr suit against a browning ferris industries inc bfi unit cecos international inc caused the stock to drop tod
+true=acq pred=earn: corrected goodyear gt to sell celeron goodyear tire and rubber co said it expects to sell its celeron corp oil and gas subsidiary for about two billion dlrs in about two months after the company s ann
+true=acq pred=earn: newmont nem stake in du pont dd declines newmont mining corp held du pont co shares or about pct of those outstanding at the end of down from the shares or pct of those outstanding it held a year earl
+true=acq pred=crude: dome dmp benefits from takeover speculation shares of dome petroleum ltd posted their biggest gain in months in the u s and canada as stock markets foresaw a takeover tug of war beginning for the debt
+true=crude pred=acq: gulf canada goc acquires suez oil stake gulf canada corp said it acquired a pct working interest in the gulf of suez oil concession for undisclosed terms the company said its agreement with operator c
+true=trade pred=money-fx: miyazawa sees eventual lower u s trade deficit japanese finance minister kiichi miyazawa told a press conference he expects the u s trade deficit to eventually start reflecting economic fundamentals w
+true=money-fx pred=interest: japan s ldp to call for flexible monetary policies japan s ruling liberal democratic party ldp will call for adequate and flexible management of the nation s monetary polices in its plan to expand dom
+true=acq pred=crude: amoco an may buy dome dmp report says amoco corp is apparently the successful bidder for debt laden dome petroleum ltd according to a published report the toronto globe and mail quoting sources close 
+true=interest pred=trade: budget chief miller warns fed on interest rates white house budget chief james miller said he was concerned that the federal reserve might overreact to the decline in the value of the u s dollar by ra
+true=earn pred=acq: fhlbb reports thrift results in fourth quarter the federal home loan bank board said its insured savings and loan associations thrifts that made a profit in the fourth quarter of reported moderate inc
+true=acq pred=crude: standard oil says british petroleum share tender extended until may
+true=ship pred=money-fx: iran says it will combat gulf intervention iranian foreign minister ali akbar velayati warned that iran would combat any superpower intervention in the gulf iran which is the most powerful country in 
+true=interest pred=money-fx: bundesbank reported to have no plan for rate cut bundesbank deputy president helmut schlesinger said the west german central bank had no plan to cut its three pct discount rate nihon keizai newspaper 
+true=ship pred=crude: moscow says will retaliate against gulf attacks any iranian attack on soviet ships in the gulf will bring a forceful and violent response a soviet foreign ministry official said in an interview publis
+true=acq pred=earn: borden to acquire prince co for about mln dlrs
+true=earn pred=acq: fiat unit fidis reports sharply higher profit year net profit billion lire vs billion ordinary share dividend lire vs note finanziaria di sviluppo spa a financial services subsidiary of fiat spa fiat 
+true=acq pred=earn: peerless manufacturing pmfg o sells unit peerless manufacturing co said it has sold its industrial sensors and instruments division and panhandle equipment co subsidiaries for a total of dlrs in cash 
+true=acq pred=earn: first of america fabk o acquires keystone first of america bank corp said it acquired keystone bancshares inc for mln dlrs keystone shareholders will receive dlrs per keystone share payable in first o
+true=interest pred=acq: bundesbank sets new repurchase tender the bundesbank set a new tender for a day securities repurchase agreement offering banks liquidity aid at a minimum bid rate of pct a central bank spokesman said 
+true=acq pred=earn: stad rotterdam takes stake in swiss owned insurer dutch insurer stad rotterdam anno n v asrn as said from july it will own pct of the shares of europeesche verzekering maatschappij n v a fully owned u
+true=interest pred=money-fx: nakasone sumita agree rate cut not appropriate prime minister yasuhiro nakasone today agreed with bank of japan governor satoshi sumita that a further cut in the discount rate was not appropriate at p
+true=ship pred=trade: colombo to defend waters india readies flotilla sri lanka today ordered its armed forces to defend the island s territorial waters as india prepared to send a flotilla with relief supplies that colomb
+true=crude pred=acq: asamera asm completes refinery sale asamera inc said wholly owned asamera oil u s inc concluded the mln u s dlr sale of its denver refinery to total petroleum north america ltd in addition total is pu
+true=acq pred=earn: holllinger hlg to paying mln dlrs for buy hollinger inc will pay about mln dlrs cash for its previously reported acquisition of privately owned unimedia inc chairman conrad black told reporters after 
+true=ship pred=trade: last minute opposition to gulf bill arises house speaker jim wright predicted passage of legislation requiring the reagan administration to provide congress with a report on its mideast gulf policy bu
+true=ship pred=trade: u s house passes gulf bill despite opposition the u s house of representatives approved a bill that requires the reagan administration to provide congress with a report on its gulf policy but does not
+true=acq pred=earn: freedom frdm to recognize gain on unit sale freedom savings and loan association said it will record a net gain of mln dlrs on the sale of certain assets of its freedom mortgage co subsidiary to chase
+true=ship pred=trade: u s house passes mideast gulf bill the house today approved a bill requiring the reagan administration to report to congress on its mideast gulf policy but not restricting its actions the vote in favo
+true=acq pred=earn: harcourt brace hbj calls special meeting harcourt brace jovanovich inc said it has called a special meeting for july for a vote on an increase in authorized common shares to mln from mln an increase i
+true=acq pred=earn: s and w berisford wants to stay independent s and w berisford plc brfd l which has attracted takeover bids is making every possible effort to remain independent deputy chairman henry lewis said after 
+true=acq pred=earn: arco arc spin off seen at mln dlrs atlantic richfield co considering a spin off of a pct interest in its chemical operations could gain about mln dlrs from the deal industry analysts estimated yesterd
+true=crude pred=earn: u k court rules against rtz on oil field costs the u k high court dismissed an appeal by rio tinto zinc corp plc s rtzl l rtz oil and gas ltd unit and ruled that the financial provisions a company mak
+true=ship pred=earn: taiwan s evergreen line to go public liner shipping specialist evergreen marine corp taiwan s largest private company has applied to the security and exchange commission to go public next month a comp
+true=ship pred=acq: spain cargo firms hire dockers to offset strike cargo handling companies said they were hiring twice the usual number of dockers to offset an intermittent strike in spanish ports spanish dockers began
+true=ship pred=acq: rhine blocked for three more weeks salvager dutch salvage firm smit tak said it may take some three weeks to lift the swiss tug orinoko and its lighter pavo which sank days ago at karlsruhe in west ge
+true=acq pred=money-fx: irwin jacobs says he holds less than five pct of gillette
+true=acq pred=earn: microwave laboratories inc mwav o th qtr net april end shr cts vs eight cts net vs sales vs avg shrs vs year shr cts vs cts net vs sales vs avg shrs vs reuter
+true=money-fx pred=earn: u s business loans fell mln dlrs business loans on the books of major u s banks excluding acceptances fell mln dlrs to billion in the week ended june the federal reserve board said the fed said that b
+true=interest pred=money-fx: uptrend remains intact for debt futures the six basis point rise of the past month in u s debt futures may be extended next week by a series of u s economic reports analysts said as long as the dollar
+true=interest pred=money-fx: bank of japan to sell billion yen in bills the bank of japan will tomorrow sell billion yen in bills from its holdings to help absorb a projected money market surplus of billion money market traders s
+true=interest pred=trade: poehl speaks against german interest rate cut bundesbank president karl otto poehl said west germany would be badly advised to lower interest rates and that he believed the economy would continue to r
+true=acq pred=money-fx: fed approves citicorp purchase of some assets of sears calif thrift
+true=acq pred=crude: san francisco not region hurt by restructuring corporate mergers and acquisitions in and around san francisco over the past seven years have had only a modest effect on the metropolitan area s economy
+true=acq pred=earn: goodyear gt to sell stake in toyobo petcord goodyear said it is selling its pct interest in toyobo petcord ltd of japan to its partner in the venture toyobo co reuter
+true=acq pred=earn: contel ctc unit sales seen by analysts contel corp s telecommunications equipment unit is the most likely candidate for sale by the atlanta based telecommunications company wall street analysts said e
+true=money-fx pred=acq: sumita welcomes u s west german joint confirmation of louvre accord
+true=money-fx pred=interest: new zealand will continue firm monetary policy the reserve bank of new zealand said there was no evidence to suggest the fall in share prices had affected financial stability and it would maintain its
+true=interest pred=acq: poehl says german and international interest rate rises are cause for concern
+true=ship pred=acq: iranian tanker reports sighting mine in gulf an iranian shuttle tanker reported spotting a floating mine in the central gulf on tuesday about miles west of lavan island regional shipping sources said 
+true=interest pred=money-fx: poehl says rate rises are cause for concern rises in west german and international interest rates are a cause for concern and the bundesbank has no interest in higher capital market rates bundesbank p
+true=acq pred=crude: lawson says bp share offer going ahead u k chancellor of the exchequer nigel lawson said the government was going ahead with this month s flotation of british petroleum co plc bp l shares despite the 
+true=money-fx pred=trade: further marked dollar fall would burden u s trade deficit stoltenberg
+true=money-fx pred=acq: stoltenberg declines comment on possible changed targets for currencies
+true=acq pred=earn: crazy eddie crzy o amends shareholder rights crazy eddie inc said its board of directors amended the company s shareholder rights plan in moves it said were designed to preserve stockholder protection
+true=acq pred=crude: lasmo canada to merge with onyx petroleum lasmo exploration canada ltd a subsidiary of london scottish marine oil plc lsml l is merging with onyx petroleum exploration co ltd lasmo said the merger is 
+true=money-fx pred=interest: poehl sees good chances for currency stability bundesbank president karl otto poehl said there were good chances for exchange rate stability the chances for exchange rate stability are good he told re
+true=interest pred=trade: donald regan says u s should ease credit supply donald regan president reagan s former chief of staff said the government should loosen the money supply try to keep interest rates down and try to redu
+true=acq pred=trade: u s commerce dept opposes foreign takeover ban commerce undersecretary j michael farren opposed language in the trade bill before congress to limit foreign takeovers of u s companies anything that wou
+true=money-fx pred=interest: lawson says u s west german row was unnecessary u k chancellor of the exchequer nigel lawson said the recent dispute between the united states and west germany over economic policy was responsible for
+true=crude pred=trade: us ruled out attack on iranian silkworms u s military planners ruled out iran s silkworm missiles as a target in the retaliatory attack mounted on monday for fear of being drawn more deeply into the i
+true=crude pred=acq: outer continental shelf sale postponed outer continental shelf oil and gas lease sale number in the beaufort sea tentatively schedualed for january has been postponed the u s department of interior sa
+true=earn pred=acq: dart group drops dayton hudson dh takeover bid dart group corp darta o affiliate madison partners said that given current market conditions it has dropped its takeover bid for dayton hudson corp the c
+true=money-fx pred=earn: german finance ministry confident of maintaining currency stability at around current levels spokesman
+true=money-fx pred=earn: german finance ministry confident of maintaining currency stability at around current levels spokesman
+true=crude pred=acq: statoil awards veslefrikk oil field contracts norwegian state oil company den norske stats oljeselskap statoil signed contracts worth a total of billion norwegian crowns in connection with the develop
+true=crude pred=acq: venezuela sees oil stability despite gulf attack venezuelan energy minister arturo hernandez grisanti said he foresaw market stability in the price of crude despite growing tension in the gulf augment
+true=money-fx pred=acq: fed s johnson says louvre accord still vital federal reserve board vice chairman manuel johnson said the louvre accord is still healthy but said the united states and west germany must work out differ
+true=money-fx pred=interest: fed s johnson says louvre accord alive but cites u s german differences
+true=grain pred=interest: u s senate panel votes to limit county loan rate changes starting with crops
+true=crude pred=trade: security council calls talks after gulf attack the u n security council was called to a private meeting on monday for consultations following the united states attack on an iranian oil platform meanwh
+true=acq pred=earn: baring unit sets up fund for management buy outs baring capital investors ltd bci a unit of the u k merchant bank baring brothers and co ltd said it has raised mln european currency units ecus which w
+true=acq pred=earn: crazy eddie crcy o won t oppose slate crazy eddie inc said its board will not oppose the slate of nominees proposed for election to the board by the committee led by entertainment marketing inc em and
+true=acq pred=earn: crazy eddie inc says it won t oppose slate of entertainment marketing
+true=money-fx pred=interest: fed seen adding reserves via system repos the federal reserve is expected to enter the government securities market to supply reserves to the banking system via system repurchase agreements economists
+true=acq pred=earn: industrial equity tells sec it will send calmat proposal for business combination
+true=acq pred=earn: ic industries icx may sell aerospace unit ic industries inc said its board approved a second major step in the reorganization and restructuring of the company to implement the plan of sharpening its s
+true=crude pred=acq: shipping sources say unidentified jets raid iranian oil platforms in southern gulf
+true=ship pred=trade: pentagon has no information on iran attack rumors a u s defense department spokesman said he had no information on london oil and stock market rumors that the united states had launched a retaliatory 
