@@ -140,7 +140,7 @@ def main():
     plt.figure(figsize=(4, 3))
     for tau, style in [(0.0, "o-"), (tau_AB, "s-")]:
         d = grid[grid.tau == tau]
-        label = "weighted kNN only" if tau == 0 else f"with rule back-off (tau={tau})"
+        label = "weighted kNN only" if tau == 0 else rf"with rule back-off ($\tau$={tau})"
         plt.plot(d.k, d.val_macro_f1, style, label=label)
     plt.xlabel("k")
     plt.ylabel("validation macro-F1")

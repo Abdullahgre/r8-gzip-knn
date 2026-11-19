@@ -6,10 +6,11 @@
 \usepackage{booktabs}
 \usepackage[hidelinks]{hyperref}
 \usepackage{url}
+\usepackage{array}
 
 \begin{document}
 
-\title{Reproducing and Extending gzip kNN Text Classification on R8 \\
+\title{Reproducing and Extending gzip kNN Text Classification on R8 \\[12pt]
 	\small \LaTeX \hspace{1mm} template adapted from: \\
 	European Conference on Artificial Intelligence}
 
@@ -41,7 +42,7 @@ Table~\ref{tab:related} summarises the most relevant papers. Jiang et al.\ \cite
 \caption{Related work (results as reported in each paper).}
 \label{tab:related}
 \setlength{\tabcolsep}{3pt}
-\begin{tabular}{@{}p{2.1cm}p{2.6cm}p{3.3cm}@{}}
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{2.1cm}>{\raggedright\arraybackslash}p{2.6cm}>{\raggedright\arraybackslash}p{3.3cm}@{}}
 \toprule
 Paper & Method & R8 result / note \\
 \midrule
@@ -186,7 +187,7 @@ carefully and only made changes that reflected my intended
 meaning and writing style. I checked the revised text myself,
 corrected any mistakes I identified and ensured that the
 technical content, research, code, experiments and
-conclusions remained my own work
+conclusions remained my own work.
 \bibliography{references}
 
 \end{document}
